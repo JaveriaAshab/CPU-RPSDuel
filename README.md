@@ -1,5 +1,5 @@
 # CPU-RPSDuel
-CPU-RPSDuel is a simple Rock, Paper, Scissors game implemented in Python. It allows players to play against the computer and test their luck and strategy.
+CPU-RPSDuel is a simple Rock, Paper, Scissors game implemented in JavaScript. It allows players to play against the computer and test their luck and strategy.
 # Features
 Player-versus-CPU mode: Play against the computer and compete to see who wins more rounds.
 User-friendly interface: Simple and intuitive interface for easy gameplay.
